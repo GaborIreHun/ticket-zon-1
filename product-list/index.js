@@ -1,3 +1,4 @@
+// Gabor S. project submission via gitHub
 const fastify = require('./server')({logger: true})
 const start = async () => {
   try {
