@@ -1,4 +1,4 @@
-
+// Gabor S. project submission via gitHub
 module.exports = (opts) => {
   const fastify = require('fastify')(opts)
   const axios = require('axios')
